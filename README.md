@@ -1,7 +1,4 @@
-
 # DocuMind: AI-Powered Multimodal Document Analysis
-
-![DocuMind Application Banner](https://picsum.photos/seed/documind-banner/1200/600)
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-18+-61DAFB?logo=react&logoColor=white" alt="React">
@@ -27,6 +24,7 @@
 - [🛠️ Technology Showcase](#️-technology-showcase)
 - [⚙️ Getting Started](#️-getting-started)
 - [🧑‍💻 Usage Guide](#-usage-guide)
+- [👤 Author](#-author)
 
 ---
 
@@ -68,7 +66,7 @@ This turns the LLM from a general-purpose knowledge engine into a dedicated expe
 
 ## 📸 Application Preview
 
-![DocuMind Main Interface](https://picsum.photos/seed/documind-app/1200/750)
+![DocuMind Main Interface](./assets/preview-main-interface.png)
 *<p align="center">The main interface, showing the document summary and the Q&A chat panel.</p>*
 
 ---
@@ -76,9 +74,6 @@ This turns the LLM from a general-purpose knowledge engine into a dedicated expe
 ## 🚀 How It Works: The AI Pipeline
 
 DocuMind operates entirely on the client-side, ensuring your documents remain private. Here's a step-by-step breakdown of the data flow from upload to answer.
-
-![Architectural Diagram](https://picsum.photos/seed/documind-arch/1200/500)
-*<p align="center">A high-level overview of the application's architecture.</p>*
 
 1.  **File Upload**: The user uploads a PDF or an image (`.png`, `.jpg`, `.webp`).
 2.  **Client-Side Pre-processing**:
@@ -128,12 +123,18 @@ The application requires a Google Gemini API key to communicate with the languag
 
 1.  **Upload Your Document**: Drag and drop a supported file into the upload zone or click to browse your local files.
 
-    ![Upload Screen](https://picsum.photos/seed/documind-upload/800/500)
+    ![Upload Screen](./assets/preview-upload.png)
 
 2.  **Generate a Summary**: Once the file is processed, click the "Summarize Document" button. The AI will read the entire document and generate a high-quality summary on the left panel.
 
-    ![Summary View](https://picsum.photos/seed/documind-summary/800/500)
+    ![Summary View](./assets/preview-summary.png)
 
 3.  **Ask Questions**: Use the chat interface on the right to ask specific questions about the document. Press Enter or click the send button to get an AI-powered answer grounded in the document's content.
 
-    ![Chat View](https://picsum.photos/seed/documind-chat/800/500)
+    ![Chat View](./assets/preview-chat.png)
+
+---
+
+## 👤 Author
+
+Made by **Vaibhav Shikhar Singh**.
