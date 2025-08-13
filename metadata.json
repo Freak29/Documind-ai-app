@@ -1,0 +1,5 @@
+{
+  "name": "DocuMind",
+  "description": "An intelligent application for multimodal document question-answering and summarization. Upload PDFs or images to extract insights, get concise summaries, and chat with your documents using the power of Google's Gemini API.",
+  "requestFramePermissions": []
+}
