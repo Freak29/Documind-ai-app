@@ -67,7 +67,7 @@ This turns the LLM from a general-purpose knowledge engine into a dedicated expe
 ## 📸 Application Preview
 
 ![DocuMind Main Interface](./assets/preview-main-interface.png)
-*<p align="center">The main interface, showing the document summary and the Q&A chat panel.</p>*
+*<p align="center">The main interface</p>*
 
 ---
 
@@ -87,6 +87,9 @@ DocuMind operates entirely on the client-side, ensuring your documents remain pr
     -   The Gemini model processes the request and generates a response based *only* on the provided context.
     -   The response (a summary or an answer) is sent back to the application.
     -   The UI updates in real-time to display the generated text in the appropriate panel.
+
+     ![DocuMind Main Architecture](./assets/flowchart.png)
+           *<p align="center">Process Flow Chart</p>*
 
 ---
 
