@@ -5,6 +5,7 @@
   <img src="https://img.shields.io/badge/TypeScript-5+-3178C6?logo=typescript&logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/Gemini_API-2.5_Flash-4285F4?logo=google&logoColor=white" alt="Gemini API">
   <img src="https://img.shields.io/badge/Tailwind_CSS-3+-06B6D4?logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
+  ![Status](https://img.shields.io/badge/status-complete-green.svg)
 </p>
 
 <p align="center">
